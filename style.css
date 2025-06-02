@@ -1,0 +1,9 @@
+h2{
+    color: #4CAF50; /* Green color for headings */
+    font-family: 'Arial', sans-serif; /* Font family for headings */
+    text-align: center; /* Center align the headings */
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px; /* Font size for paragraphs */
+}
